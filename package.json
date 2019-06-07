@@ -68,6 +68,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "bignumber.js": "^8.0.1",
+    "callbackify": "^1.1.0",
     "cids": "~0.7.0",
     "debug": "^4.1.0",
     "ipfs-block": "~0.8.0",
